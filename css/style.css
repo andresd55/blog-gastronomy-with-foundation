@@ -1,0 +1,106 @@
+body{
+    background-image: url("../img/Breakfast-Photos-02439.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.content{
+    background-color: rgba(255,255,255,0.7);
+    padding-left: 2vh;
+    padding-right: 2vh;
+    border-radius: 5px;
+}
+.tittle{
+    border-right: solid 1px black;
+    margin-right: 0px;
+    padding-right: 2vh
+}
+hr{
+    border: solid 1px black; margin-top: 1vh; margin-bottom: 1vh;
+}
+
+hr.first{
+    width: 86%;
+}
+.pt_2{
+    padding-top: 2vh;
+}
+.search{
+    background-color: #8E030C;
+    color: white;
+}
+.menu_item{
+    background-color: #C11022 !important;
+    color: white !important;
+}
+.m0{
+    margin: 0;
+}
+h4{
+    margin-bottom: 0px;
+}
+.item_favorite{
+    padding: 6px;
+    width: 100%;
+    height: 19vh;
+    background-color: #D89542 !important
+}
+.img_favorite{
+    width: 100%;
+    height:100%;
+    background-size: cover;
+}
+
+.img_1{
+    background-image: url('../img/Dark-Chocolate-High-Definition-Wallpaper-12604.jpg');
+}
+.img_2{
+    background-image: url('../img/Breakfast-Latest-Wallpapers-02437.jpg');
+}
+.img_3{
+    background-image: url('../img/Sandwich-High-Quality-Wallpapers-01176.jpg');
+}
+.img_4{
+    background-image: url('../img/Vegetable-HD-Pics-03541.jpg');
+}
+.img_5{
+     background-image: url('../img/Breakfast-Pictures-02441.jpg');
+ }
+.img_6{
+    background-image: url('../img/Breakfast-Wallpapers-02444.jpg');
+}
+.historial_item{
+    margin: 3vh;
+}
+.coment{
+    margin-left: -10%;
+    margin-top: 2px;
+    display: inline-block !important;
+}
+.description{
+    margin-top: 2vh;
+}
+.mt_2{
+    margin-top: 2vh;
+}
+.img_p{
+    width: 80%;
+    height: 40vh;
+    margin-left: 10%;
+}
+.img_user{
+    max-width: 8vh;
+
+}
+.mb_2{
+    margin-bottom: 2vh;
+}
+.s_img_user{
+    display: inline-block !important;
+}
+.date{
+    color: #C11022;
+}
+.publish{
+    background-color: #A35D21;
+    color: white;
+}
